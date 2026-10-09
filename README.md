@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dhatrinath Lade 👋</h1>
+<h1 align="center">Hi, I'm DHATRINATH LADE 👋</h1>
 <h3 align="center">B.Tech CSE (Cloud Engineering) · KL University · Class of 2027</h3>
 <p align="center">
   <em>Building cloud-native software, full-stack apps & AI-powered tools — one commit at a time.</em>
