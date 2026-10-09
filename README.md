@@ -13,7 +13,6 @@
 - ☁️ Cloud-native enthusiast — AWS, GCP, Docker, CI/CD
 - 🤖 Exploring LLMs, RAG & AI-assisted development
 - 🎯 Currently focused on placements & building production-style projects
-- 🎵 Powered by Lana Del Rey and too much coffee
 
 ---
 
